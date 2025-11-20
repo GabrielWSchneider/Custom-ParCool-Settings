@@ -1,0 +1,15 @@
+CarryOn 1.20.1  - COMPLEX INSTALL!! Appears not to be enabled right now.
+
+Supplementaries 1.20.1 and Amendments 1.20.1
+  - HUGE addon with lots of parts. Will need to check interactions as they come up, unfortunately.
+
+Straw Golem Updated 1.20.1
+  - Does not respond to Supplementaries Flute
+
+Sophisticated Backpacks 1.20.1
+  - May require config to disable most upgrades. I just want the regular backpacks, no bones about 'em.
+
+Epic Fight
+  - Farmer's Delight pan does not work in Fight Mode. I bet there's a config option for Epic Fights to add "new" weapons.
+  - Sophisticated Backpacks do not appear in Fight Mode.
+
