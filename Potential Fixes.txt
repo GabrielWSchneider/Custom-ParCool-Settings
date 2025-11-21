@@ -1,0 +1,7 @@
+Sophisticated Backpacks 1.20.1
+  - May require config to disable most upgrades. I just want plain ol' backpacks, no bones about 'em.
+
+Epic Fight 1.20.1
+  - Farmer's Delight pan does not work in Fight Mode. No config option found.
+  - Sophisticated Backpacks invisible in Fight Mode.
+
