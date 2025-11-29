@@ -1,2 +1,6 @@
 Epic Fight 1.20.1
   - Farmer's Delight pan does not work in Fight Mode. Ideally, it should use the same moves as the axe, being a heavy, one-handed weapon with medium reach.
+
+Custom KubeJS script 'custom_baking_recipe_fix.js'
+  - The implementation of slicing Honeyed and Chocolate cakes is somewhat ugly. It would be better to introduce a new cake slice for each variant, which gives the improved stats; however, this would require all members to update their mod, which I have avoided where possible.
+  - Similarly, the pumpkin pie recipe has been, if you will pardon the expression, half-assed. Rather than giving the same buffs as Apple and Chocolate pies, the recipe simply gives 2 pumpkin pie items to make up the difference in hunger value.
